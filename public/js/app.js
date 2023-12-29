@@ -1,5 +1,3 @@
-console.log('Client side server file is ready')
-
 const weatherForm = document.querySelector('form')
 const search = document.querySelector('input')
 const messageOne = document.querySelector('#message-1')
